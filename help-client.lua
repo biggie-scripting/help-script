@@ -1,5 +1,5 @@
 -- Made By BIGGIE#6666 --
--- Input you discord & website below, you can change website to your server ip if you dont have a website --
+-- Input your discord & website below, you can change website to your server ip if you dont have a website --
 
 RegisterCommand("help", function()
     msg("Discord: discord.gg/invite")
